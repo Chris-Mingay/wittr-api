@@ -1,0 +1,66 @@
+body {
+	background-color: #3c8dbc;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+}
+
+.jumbotron {
+	background-color: #3c6d8c;
+}
+
+.header h3, .header h3 small {
+	color: #fff;
+}
+
+ul.nav li.active a {
+	background-color: #3c6d8c;
+	color: #fff;
+}
+
+ul.nav li a {
+	color: #fff;
+}	
+
+ul.nav li a:hover {
+	background: transparent;
+	}
+
+.tlw {
+	height: 24px;
+}
+
+.gpb {
+	height: 48px;
+}
+
+p.smaller {
+	font-size: small;
+}
+	
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+	background-color: rgba(255,255,255,0.1);
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+	border-top: none;
+}
+	
+.footer p {
+	color: #fff;
+}
+		
+
+
+tr.row-hidden {
+	display: none;
+}
+
+.showMore {
+	color: #fff;
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 38px;
+}
